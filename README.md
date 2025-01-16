@@ -18,7 +18,7 @@ Later on, during my highschool years, I got into a bunch of stuff to further tra
 After highschool, entered university, and of course I chose IT as my major. Up until now, I've had experience with:
 
 - Writing Java. I've had previous experience with C# back then, so I got into it fast enough (though I rarely use Java again after the course, so I forgot most of it)
-- Writing HTML, JavaScript and CSS, for web development projects, also became my free time hobby for a period of time
+- Writing HTML, JavaScript and CSS for web development projects. Also became my free time hobby for a period of time
 - A bit of React (with JSX) for web development for a course, though I hate it greatly, **with a passion!** >:(
 - Writing a bunch of academic reports... (God I hate it so much... I would rather suffer with React)
 - ... and more to come!

@@ -1,5 +1,9 @@
 ## Hi there 👋
-https://coderstats.net/github/#thelegendaryjohn
+  <p>
+    <a href="https://coderstats.net/github/#thepbone">
+      <img src="https://github-readme-stats.vercel.app/api?username=timschneeb&show_icons=true" />
+    </a>
+  </p>
 <!--
 **thelegendaryjohn/thelegendaryjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

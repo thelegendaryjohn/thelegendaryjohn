@@ -2,7 +2,7 @@
 
 _(Sorry for any mistakes. English isn't my first language)_
 
-I was really, really interested in programming way back in my highschool days. I wished to become a game developer, or just at least a general software developer.
+It all started on one beautiful day, way back in my highschool days. I was really, really interested in programming. I found it especially intriguing and fascinating, like it tickled something in my subconsciousness, urging me to continue my exploration into the world of programming. I wished to become a game developer, or just at least a general software developer.
 
 Started out by training my mindset with writing a bunch of Batch scripts and watching tutorials. After some time, I discovered and played around with Unity, and made a little game following a bunch of tutorials. A lot of the code is taken from the tutorials of course, but at least I understood how it works and innovated on my own.
 
@@ -14,6 +14,8 @@ Later on, during my highschool years, I got into a bunch of stuff to further tra
 - Writing a bit of C++ code for Arduino projects (forgot how to write C++ now though)
 - Designing and visual coding for **LEGO® MINDSTORMS® EV3** and **LEGO® Education SPIKE™**.
   - Used to participate in the early rounds of a **FIRST® LEGO® League** competition. Couldn't continue further because it was starting to affect my studying (I was really invested in it)
+
+During this time, I also found out that I'm quite good at grasping the concept of coding, think in code, and also testing and debugging!
 
 After highschool, entered university, and of course I chose IT as my major. Up until now, I've had experience with:
 

@@ -23,7 +23,7 @@ After highschool, entered university, and of course I chose IT as my major. Up u
 - Writing a bunch of academic reports... (God I hate it so much... I would rather suffer with React)
 - _**... and more to come!**_
 
-Right now, I'm working part-time as a software developer for a company that make Roblox game, so I'm also dealing with Lua/Luau, and everything that comes with making a game
+Right now, I'm working part-time as a software developer for a company that make Roblox game, so I'm dealing with Lua/Luau, and everything that comes with making a game
 
 Therefore, I would safely say that my dream had fortunately come true, and that years of dreaming and investing myself into learning the beautiful art of programming wasn't a waste! :D
 

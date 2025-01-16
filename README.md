@@ -1,7 +1,7 @@
 ## Hi there 👋
   <p>
     <a href="https://coderstats.net/github/#thepbone">
-      <img src="https://github-readme-stats.vercel.app/api?username=timschneeb&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thelegendaryjohn&show_icons=true" />
     </a>
   </p>
 <!--

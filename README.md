@@ -21,7 +21,7 @@ After highschool, entered university, and of course I chose IT as my major. Up u
 - Writing HTML, JavaScript and CSS for web development projects. Also became my free time hobby for a period of time
 - A bit of React (with JSX) for web development for a course, though I hate it greatly, **with a passion!** >:(
 - Writing a bunch of academic reports... (God I hate it so much... I would rather suffer with React)
-- ... and more to come!
+- _**... and more to come!**_
 
 Right now, I'm working part-time as a software developer for a company that make Roblox game, so I'm also dealing with Lua/Luau, and everything that comes with making a game
 

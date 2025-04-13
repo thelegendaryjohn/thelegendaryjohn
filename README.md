@@ -19,7 +19,7 @@ During this time, I also found out that I'm quite good at grasping the concept o
 
 After highschool, entered university, and of course I chose IT as my major. Up until now, I've had experience with:
 
-- Writing Java. I've had previous experience with C# back then, so I got into it fast enough (~~though I rarely use Java again after the course, so I forgot most of it~~ I got to use Java again in another course, so the gear is spinning a bit now)
+- Writing Java. I've had previous experience with C# back then, so I got into it fast enough (~~though I rarely use Java again after the course, so I forgot most of it~~ I got to use Java again in another course, so the gears are spinning a bit now)
 - Writing HTML, JavaScript and CSS for web development projects. Also became my free time hobby for a period of time
 - A bit of React (with JSX) for web development for a course, though I hate it greatly, **with a passion!** >:(
 - Writing a bunch of academic reports... (God I hate it so much... I would rather suffer with React)
